@@ -1,3 +1,6 @@
 [submodule "racket"]
 	path = racket
 	url = git@github.com:racket/racket.git
+[submodule "embed_Chez/ChezScheme"]
+	path = embed_Chez/ChezScheme
+	url = git@github.com:racket/ChezScheme.git
